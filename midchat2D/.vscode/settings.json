@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "qlabel": "cpp",
+        "qwidget": "cpp",
+        "qmouseevent": "cpp"
+    }
+}

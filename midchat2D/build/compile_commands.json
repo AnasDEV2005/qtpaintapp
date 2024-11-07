@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/geronimo/midchat2D/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/geronimo/midchat2D/build/Midchat2D_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtWidgets -g -std=gnu++11 -fPIC -o CMakeFiles/Midchat2D.dir/Midchat2D_autogen/mocs_compilation.cpp.o -c /home/geronimo/midchat2D/build/Midchat2D_autogen/mocs_compilation.cpp",
+  "file": "/home/geronimo/midchat2D/build/Midchat2D_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Midchat2D.dir/Midchat2D_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/geronimo/midchat2D/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/geronimo/midchat2D/build/Midchat2D_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtWidgets -g -std=gnu++11 -fPIC -o CMakeFiles/Midchat2D.dir/main.cpp.o -c /home/geronimo/midchat2D/main.cpp",
+  "file": "/home/geronimo/midchat2D/main.cpp",
+  "output": "CMakeFiles/Midchat2D.dir/main.cpp.o"
+},
+{
+  "directory": "/home/geronimo/midchat2D/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/geronimo/midchat2D/build/Midchat2D_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtWidgets -g -std=gnu++11 -fPIC -o CMakeFiles/Midchat2D.dir/Canvas.cpp.o -c /home/geronimo/midchat2D/Canvas.cpp",
+  "file": "/home/geronimo/midchat2D/Canvas.cpp",
+  "output": "CMakeFiles/Midchat2D.dir/Canvas.cpp.o"
+}
+]
