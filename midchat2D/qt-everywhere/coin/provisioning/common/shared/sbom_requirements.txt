@@ -1,6 +1,0 @@
-# Python packages used to validate and audit Qt SBOM informaiton
-spdx-tools>=0.8.0
-ntia-conformance-checker
-sbomaudit
-sbom2doc
-reuse

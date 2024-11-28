@@ -1,4 +1,0 @@
-Version: 2
-Module only: True
-Include: [meta-boot2qt.yaml]
-Configurations: []
